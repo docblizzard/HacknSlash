@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-down" width="64" height="40" tilewidth="32" tileheight="32" infinite="0" nextlayerid="9" nextobjectid="3">
+ <tileset firstgid="1" source="../../Sprites/platform.tsx"/>
+ <tileset firstgid="56" source="platform3.tsx"/>
+ <layer id="1" name="platform" width="64" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1kEOgjAQQNFeAEWRRFTQRFHR+9/Pf4K2K1qT/5K/mk1XnQlBkkJoaENbamlHe+roQH25p63iSAOd6EwXGmmiK92KvWwdd3rQTE960ZsW+tC33NOkv+Af6h/qHypJ9Uvt69g8Z9fXfgOk9nVsnrPra78BUvs6Ns/Z9d4AkiRJkiRJkkr5AWLcD7s=
+  </data>
+ </layer>
+ <layer id="8" name="platform" width="64" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1UsKg1AQRcG3QTXxl+j+F+IdOPU5EEGkCg409Ly7FACa1KYufdI39WnYe7sxTWlOv/RPS1r3AGqaUr+jbzeW+h0FgCc4+9VX90fzU5z96qv7oxkAAAAA4G4bRtwa1A==
+  </data>
+ </layer>
+ <objectgroup id="5" name="player" offsetx="2.66667" offsety="4"/>
+</map>
